@@ -1,6 +1,6 @@
 {
   "name": "recommender-node",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Collaborative Filtering Library for Node.js",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/jcospina/recommender-node#readme",
   "dependencies": {
-    "d3": "7.0.0",
+    "d3": "^6.7.0",
     "jsdataframe": "^0.2.0",
     "linear-algebra": "^3.1.3",
     "lodash": "^4.17.4",
