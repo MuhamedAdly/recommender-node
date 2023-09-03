@@ -1,6 +1,6 @@
 {
   "name": "recommender-node",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Collaborative Filtering Library for Node.js",
   "main": "index.js",
   "scripts": {
